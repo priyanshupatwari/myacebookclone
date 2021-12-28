@@ -1,0 +1,2 @@
+For using SVG as react component - see doc @ [https://dev.to/dolearning/importing-svgs-to-next-js-nna]
+For directly importing css file in a component just like we do in react, visit @ [https://medium.com/officialrajdeepsingh/how-to-add-css-in-next-js-3254016d7544] 

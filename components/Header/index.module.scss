@@ -1,0 +1,6 @@
+.activeSearchBar{
+ @apply shadow-md bg-gray-100 border-[1px];
+ & > input{
+ @apply inline-flex w-[50vw] ;
+ }
+}
